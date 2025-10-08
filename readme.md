@@ -1,5 +1,14 @@
 # LoginPortal Automation Framework
 
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/)
+[![Log4j2](https://img.shields.io/badge/Log4j2-2.20.0-purple)](https://logging.apache.org/log4j/2.x/)<br>
+[![Spring MVC](https://img.shields.io/badge/Spring-MVC-brightgreen)](https://spring.io/projects/spring-framework)
+[![Maven](https://img.shields.io/badge/Maven-3.x-red)](https://maven.apache.org/)<br>
+[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-blue)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-7.x-lightgrey)](https://testng.org/doc/)<br>
+
+
+
 ## Overview
 
 The **LoginPortal Automation Framework** is a complete **automation testing project** built on **Spring MVC** with a **Selenium WebDriver** framework. It demonstrates **end-to-end web application testing** with **Page Object Model (POM)**, **data-driven testing**, and structured **logging & reporting**.
